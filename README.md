@@ -1,5 +1,5 @@
 # Laboratorio - Encapsulamiento y modularidad.
-##### Punto 1
+### Punto 1
 **Objetivo:**
 - Reconocer las diferencias básicas entre programación estructurada y programación orientada a objetos.
 **Enunciado:**
