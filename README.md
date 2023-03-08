@@ -1,7 +1,7 @@
 # Laboratorio - Encapsulamiento y modularidad.
 #### Integrantes:
-    - Fredy Alejandro Zarate Abril
-    - Gabriel Esteban Martinez Roldan
+- Fredy Alejandro Zarate Abril
+- Gabriel Esteban Martinez Roldan
 ### Punto 1
 **Objetivo:**
 - Reconocer las diferencias básicas entre programación estructurada y programación orientada a objetos.
