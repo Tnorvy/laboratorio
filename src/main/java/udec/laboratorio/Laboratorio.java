@@ -8,5 +8,6 @@ public class Laboratorio {
         areas.setAltura(areas.recibirDatos("Ingrese la altura del cuadrado"));
         areas.setRadio(areas.recibirDatos("Ingrese el radio del circulo"));
         areas.imprimirAreas();
+        System.exit(0);
     }
 }
