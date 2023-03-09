@@ -239,7 +239,7 @@
 											"top": 95,
 											"width": 225.0751953125,
 											"height": 13,
-											"text": "Class1"
+											"text": "Areas"
 										},
 										{
 											"_type": "LabelView",
@@ -885,7 +885,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Class1",
+					"name": "Areas",
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
@@ -1173,9 +1173,9 @@
 											"font": "Arial;13;0",
 											"left": 48,
 											"top": -64,
-											"width": 80.9072265625,
+											"width": 124.24267578125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from DiagramaUsos)"
 										},
 										{
 											"_type": "LabelView",
@@ -1274,9 +1274,9 @@
 											"font": "Arial;13;0",
 											"left": 16,
 											"top": 80,
-											"width": 80.9072265625,
+											"width": 124.24267578125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from DiagramaUsos)"
 										},
 										{
 											"_type": "LabelView",
@@ -1454,9 +1454,9 @@
 											"font": "Arial;13;0",
 											"left": 80,
 											"top": 48,
-											"width": 80.9072265625,
+											"width": 124.24267578125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from DiagramaUsos)"
 										},
 										{
 											"_type": "LabelView",
@@ -1634,9 +1634,9 @@
 											"font": "Arial;13;0",
 											"left": -16,
 											"top": 64,
-											"width": 80.9072265625,
+											"width": 124.24267578125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from DiagramaUsos)"
 										},
 										{
 											"_type": "LabelView",
@@ -2103,9 +2103,9 @@
 											"font": "Arial;13;0",
 											"left": 224,
 											"top": 288,
-											"width": 80.9072265625,
+											"width": 124.24267578125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from DiagramaUsos)"
 										},
 										{
 											"_type": "LabelView",
@@ -2302,9 +2302,9 @@
 											"font": "Arial;13;0",
 											"left": 16,
 											"top": 208,
-											"width": 80.9072265625,
+											"width": 124.24267578125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from DiagramaUsos)"
 										},
 										{
 											"_type": "LabelView",
