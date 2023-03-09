@@ -13,4 +13,4 @@
 ![Diagrama de clases. Relación entre las clases Pacientes y SvPacientes. La primera encargada del manejo de datos y la segunda encargada de recibir, guardar los datos e imprimirlos en pantalla por medio de JSP](https://github.com/Tnorvy/laboratorio/blob/master/diagramas/DiagramaClases.jpg)
 
 ### Diagrama casos de uso
-![Diagrama de casos de uso. Interacción del usuario desde el menú a las opciones de registrar y mostrar datos, también está dispnible la opción de devolver a la pagina principal.](https://github.com/Tnorvy/laboratorio/blob/master/diagramas/DiagramaUsos.jpg
+![Diagrama de casos de uso. Interacción del usuario desde el menú a las opciones de registrar y mostrar datos, también está dispnible la opción de devolver a la pagina principal.](https://github.com/Tnorvy/laboratorio/blob/master/diagramas/DiagramaUsos.jpg)
